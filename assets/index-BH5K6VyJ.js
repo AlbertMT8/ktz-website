@@ -4084,7 +4084,7 @@ void main() {
       w-full h-full overflow-hidden
       bg-neutral-900 dark:bg-white
       transition-colors duration-300
-      `,children:Y.jsx("nav",{className:"flex flex-col h-full m-0 p-0",children:n.map((t,e)=>Y.jsx(zF,{...t},e))})}),HF=[{link:"#hero",text:"Unlocking Alpha Through Data-Driven Innovation",image:"https://picsum.photos/seed/hero/600/400"},{link:"#stats",text:"Our Impact",image:"https://picsum.photos/seed/stats/600/400"},{link:"#approach",text:"Our Scientific Approach",image:"https://picsum.photos/seed/approach/600/400"}],kF=()=>Y.jsxs("div",{className:"bg-black",children:[Y.jsx(bI,{}),Y.jsx("section",{className:"w-full h-screen bg-black flex justify-center items-center",children:Y.jsx(TI,{})}),Y.jsxs("section",{className:"w-full bg-black",children:[Y.jsx("style",{children:`
+      `,children:Y.jsx("nav",{className:"flex flex-col h-full m-0 p-0",children:n.map((t,e)=>Y.jsx(zF,{...t},e))})}),HF=[{link:"#hero",text:"Unlocking Alpha Through Data-Driven Innovation",image:"https://picsum.photos/seed/hero/600/400"},{link:"#stats",text:"Our Impact",image:"https://picsum.photos/seed/stats/600/400"},{link:"#approach",text:"Our Scientific Approach",image:"https://picsum.photos/seed/approach/600/400"}],kF=()=>Y.jsxs("div",{className:"bg-black p-0 m-0",children:[Y.jsx(bI,{}),Y.jsx("section",{className:"w-full h-screen bg-black flex justify-center items-center",children:Y.jsx(TI,{})}),Y.jsxs("section",{className:"w-full bg-black",children:[Y.jsx("style",{children:`
             @keyframes marqueeScroll {
               0% {
                 transform: translateX(0%);
